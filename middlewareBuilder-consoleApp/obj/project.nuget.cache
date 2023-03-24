@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "avdkAR9da57kzhwczQdPBPSEGlNLj2SGxHLjmoYs46pXYLA/GtSWRdbClX/2rUAHWGuO04De4vPGVuRIJpIcUQ==",
+  "dgSpecHash": "khRJVRuD2fmmt3szOWvyJBEWp5kL4qRxpmO86fYHCFZRz7a/duASLH2/FiaGLRrgIiHcyV1H/I6ZA9IddgRM2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samet\\Desktop\\Projeler\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/sametuca/Projects/middlewarebuilder-dotnet/middlewareBuilder-consoleApp/middlewareBuilder-consoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/sametuca/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -53,7 +53,6 @@ namespace middlewareBuilder_consoleApp
         {
             var filePath = (string)context;
 
-            // Do some processing with the file
             Console.WriteLine($"Processing file: {filePath}");
 
             _next.Invoke(null);

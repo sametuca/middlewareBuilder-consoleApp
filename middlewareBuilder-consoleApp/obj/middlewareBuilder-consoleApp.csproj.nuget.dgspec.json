@@ -1,30 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samet\\Desktop\\Projeler\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp.csproj": {}
+    "/Users/sametuca/Projects/middlewarebuilder-dotnet/middlewareBuilder-consoleApp/middlewareBuilder-consoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samet\\Desktop\\Projeler\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp.csproj": {
+    "/Users/sametuca/Projects/middlewarebuilder-dotnet/middlewareBuilder-consoleApp/middlewareBuilder-consoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samet\\Desktop\\Projeler\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp.csproj",
+        "projectUniqueName": "/Users/sametuca/Projects/middlewarebuilder-dotnet/middlewareBuilder-consoleApp/middlewareBuilder-consoleApp.csproj",
         "projectName": "middlewareBuilder-consoleApp",
-        "projectPath": "C:\\Users\\Samet\\Desktop\\Projeler\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp.csproj",
-        "packagesPath": "C:\\Users\\Samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samet\\Desktop\\Projeler\\middlewareBuilder-consoleApp\\middlewareBuilder-consoleApp\\obj\\",
+        "projectPath": "/Users/sametuca/Projects/middlewarebuilder-dotnet/middlewareBuilder-consoleApp/middlewareBuilder-consoleApp.csproj",
+        "packagesPath": "/Users/sametuca/.nuget/packages/",
+        "outputPath": "/Users/sametuca/Projects/middlewarebuilder-dotnet/middlewareBuilder-consoleApp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sametuca/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,12 +49,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
